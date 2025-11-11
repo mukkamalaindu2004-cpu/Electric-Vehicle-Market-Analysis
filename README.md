@@ -53,6 +53,10 @@ This Tableau project highlights rapid EV adoption in the U.S., led by Tesla and 
 ---
 
 ### 📬 Contact
-Prepared by *Mukkamala Indu* — B.Tech (CSE) 2025  
-GitHub: https://github.com/<your-username>  
+Prepared by *Mukkamala Indu* 
 (Feel free to message me for questions or suggestions.)
+
+### 🔗 Connect with Me
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/mukkamala-indu-7a737b250)  
+- 📂 [GitHub Repository](https://github.com/mukkamalaindu2004-cpu/PizzaHut-Sales-Analysis)
+
