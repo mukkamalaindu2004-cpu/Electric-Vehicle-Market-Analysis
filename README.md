@@ -58,5 +58,5 @@ Prepared by *Mukkamala Indu*
 
 ### 🔗 Connect with Me
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/mukkamala-indu-7a737b250)  
-- 📂 [GitHub Repository](https://github.com/mukkamalaindu2004-cpu/PizzaHut-Sales-Analysis)
+- 📂 [GitHub Repository](https://github.com/mukkamalaindu2004-cpu/Electric-Vehicle-Market-Analysis)
 
