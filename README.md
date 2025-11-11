@@ -1,6 +1,4 @@
-# Electric-Vehicle-Market-Analysis
-Interactive Tableau dashboard analyzing U.S. Electric Vehicle market trends by state, make, and model. Highlights Tesla’s dominance, BEV growth, and adoption patterns (2010–2026).
-# 🚗 Electric Vehicle Market Analysis – Tableau Dashboard
+# 🚗 Electric Vehicle Market Analysis 
 
 ### 📊 Project Overview
 An interactive Tableau dashboard analyzing the *Electric Vehicle (EV) Market* across the United States.  
